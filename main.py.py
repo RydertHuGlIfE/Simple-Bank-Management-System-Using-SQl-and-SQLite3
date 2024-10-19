@@ -211,7 +211,7 @@ def repay_loan(account_no):
 
 
  
-#This Code is Written By Varun Chauhan of Class XII B
+#This Code is Written By Varun Chauhan 
 
 # Step 1: Create the database
 create_database()
